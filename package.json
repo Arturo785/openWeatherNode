@@ -1,0 +1,24 @@
+{
+  "name": "openWeather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturo785/openWeatherNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturo785/openWeatherNode/issues"
+  },
+  "homepage": "https://github.com/Arturo785/openWeatherNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.2"
+  }
+}
